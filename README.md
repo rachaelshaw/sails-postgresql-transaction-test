@@ -1,4 +1,4 @@
-# newtestproj
+# sails-postgresql-transaction-test
 
 a [Sails v1](https://sailsjs.com) application
 
